@@ -8,9 +8,9 @@
 
 ## Dependency
 
-`asm-9.2.jar`
+`lib/asm-9.2.jar`
 
-放在lib目录下，可从https://repository.ow2.org/nexus/content/repositories/releases/org/ow2/asm/asm/9.2/下载
+可从https://repository.ow2.org/nexus/content/repositories/releases/org/ow2/asm/asm/9.2/ 下载
 
 ## Build
 
